@@ -1,0 +1,6 @@
+collections:
+  collections-eg:
+    output: true
+    order:
+      - page-eg/.keep
+      - page-eg/subpage-eg.md

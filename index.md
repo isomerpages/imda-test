@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Wen Jie is a hero!
+      title: Wen Jie is a not  hero!
       subtitle: Hero subtitle
       background: /images/hero-banner.png
       button: Contact Us

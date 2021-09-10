@@ -33,6 +33,6 @@ sections:
       url: /faq/
   - resources:
       title: Media
-      subtitle: Learn more
+      subtitle: Learn more about Isomer
       button: View More
 ---

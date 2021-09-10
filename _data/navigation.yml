@@ -8,3 +8,5 @@ links:
     collection: collections-eg
   - title: Resource
     resource_room: true
+  - title: Info
+    collection: isomer-info

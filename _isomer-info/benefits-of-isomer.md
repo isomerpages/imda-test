@@ -5,7 +5,7 @@ permalink: /benefits
 # Launch a website in days
 ![Alt text for image on Isomer site](/images/benefits/launch%20image.png)
 
-**Use Isomer template, populate your content and you're ready to go. No more engaging web development services or going through long procurement process.**
+**Use Isomer template, populate your content and you're ready to go. No more engaging web development services or going through long procurement process.**<br></br>
 ```
 <br></br>
 ```

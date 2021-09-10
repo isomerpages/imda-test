@@ -19,7 +19,7 @@ We’ve designed Isomer to be compliant to applicable clauses in the IM8 and fol
 If you have specific queries regarding IM8 compliance, please contact any of the Isomer team members and we’ll help you address them.
 
 # **In line with Singapore Government Design System**
-Our site templates are designed based on components found on the Singapore Government Design System. If you choose to build a site on your own, you can still refer to the UI components found on their site.
+Our site templates are designed based on components found on the [Singapore Government Design System](https://www.designsystem.tech.gov.sg/). If you choose to build a site on your own, you can still refer to the UI components found on their site.
 
 Note that the current components may not be up to date with the latest SGDS.
 

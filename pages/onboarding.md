@@ -1,4 +1,5 @@
 ---
 title: Onboarding
-permalink: /permalink
+permalink: /onboard
 ---
+

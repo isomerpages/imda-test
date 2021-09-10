@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - faq.md
+      - benefits-of-isomer.md

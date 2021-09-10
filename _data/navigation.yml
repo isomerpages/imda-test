@@ -1,7 +1,5 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: Page 1
     url: /page-1/
   - title: Collections Eg
@@ -10,3 +8,5 @@ links:
     collection: isomer-info
   - title: Resource
     resource_room: true
+  - title: Contact Us
+    url: /contact-us/

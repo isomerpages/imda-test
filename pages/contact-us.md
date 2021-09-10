@@ -33,12 +33,12 @@ locations:
 contacts:
   - content:
       - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
+      - email: enquiries@isomer.gov.sg
       - other: Any text here <i>including HTML</i>
     title: General Enquiries & Feedback
   - content:
       - phone: ""
-      - email: careers@abc.gov.sg
+      - email: careers@isomer.gov.sg
       - other: ""
     title: Careers
 ---

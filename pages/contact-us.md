@@ -38,7 +38,7 @@ contacts:
     title: General Enquiries & Feedback
   - content:
       - phone: ""
-      - email: careers@isomer.gov.sg
+      - email: careers@abc.gov.sg
       - other: ""
     title: Careers
 ---

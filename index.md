@@ -7,8 +7,8 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Everyone is a   hero!
-      subtitle: Hero subtitle
+      title: "Isomer "
+      subtitle: Everyone can build simiple website
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/

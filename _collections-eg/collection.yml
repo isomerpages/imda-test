@@ -4,4 +4,4 @@ collections:
     order:
       - page-eg/.keep
       - page-eg/subpage-eg.md
-      - test-page.md
+      - folder-test-page.md

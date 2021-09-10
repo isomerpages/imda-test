@@ -1,5 +1,5 @@
 collections:
-  faq:
+  isomer-info:
     output: true
     order:
       - faq.md

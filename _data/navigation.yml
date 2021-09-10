@@ -6,7 +6,7 @@ links:
     url: /page-1/
   - title: Collections Eg
     collection: collections-eg
-  - title: Resource
-    resource_room: true
   - title: Info
     collection: isomer-info
+  - title: Resource
+    resource_room: true

@@ -24,4 +24,4 @@ Our site templates are designed based on components found on the Singapore Gover
 Note that the current components may not be up to date with the latest SGDS.
 
 **Have questions?**
-You can refer to our FAQ for a list of commonly asked questions. You may also write in to us through this contact form.
+You can refer to our [FAQ](/faq/) for a list of commonly asked questions. You may also write in to us through this contact form.

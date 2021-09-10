@@ -33,7 +33,7 @@ locations:
 contacts:
   - content:
       - phone: +65 6123 4567
-      - email: enquiries@isomer.gov.sg
+      - email: enquiries@abc.gov.sg
       - other: Any text here <i>including HTML</i>
     title: General Enquiries & Feedback
   - content:

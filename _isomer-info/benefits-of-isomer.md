@@ -7,7 +7,7 @@ permalink: /benefits
 
 **Use Isomer template, populate your content and you're ready to go. No more engaging web development services or going through long procurement process.**
 ```
-</br>
+<br></br>
 ```
 # 	Build a blazing fast website
 ![Alt text for image on Isomer site](/images/benefits/build%20fast%20image.png)

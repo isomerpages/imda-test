@@ -22,9 +22,9 @@ sections:
         - title: Privacy
           description: Privacy statement
           url: /privacy/
-        - title: Key Highlight Title
+        - title: Onboardinng
           description: Key Highlight description
-          url: ""
+          url: /onboarding/
   - infobar:
       title: Infobar title
       subtitle: Subtitle

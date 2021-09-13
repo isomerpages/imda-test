@@ -2,7 +2,6 @@
 title: Onboarding
 permalink: /onboarding/
 ---
-
 Creating a site on Isomer is fairly straightforward. Here’s a high level view of the steps from site set up to site launch.
 
 ![Alt text for image on Isomer site](/images/Step%20to%20launch%20Isomer.jfif)

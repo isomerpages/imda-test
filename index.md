@@ -22,9 +22,9 @@ sections:
         - title: Privacy
           description: Privacy statement
           url: /privacy/
-        - title: Onboarding
-          description: Steps to Onboard
-          url: /onboarding/
+        - title: Highlight C
+          description: Highlight C is the least impt
+          url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle

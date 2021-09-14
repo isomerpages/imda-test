@@ -4,12 +4,12 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: "Isomer "
       subtitle: Everyone can build simiple website
-      background: /images/hero-banner.png
+      background: /images/Step%20to%20launch%20Isomer.jfif
       button: Contact Us
       url: /contact-us/
       key_highlights:

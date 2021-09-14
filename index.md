@@ -9,7 +9,7 @@ sections:
   - hero:
       title: "Isomer "
       subtitle: Everyone can build simiple website
-      background: /images/Step%20to%20launch%20Isomer.jfif
+      background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
       key_highlights:

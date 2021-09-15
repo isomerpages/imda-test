@@ -4,11 +4,11 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: this is a mintenace
 sections:
   - hero:
-      title: "Isomer "
-      subtitle: Everyone can build simiple website
+      title: Isomer 2
+      subtitle: Everyone can build simiple website 4
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/

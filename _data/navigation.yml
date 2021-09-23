@@ -12,3 +12,5 @@ links:
     url: /contact-us/
   - title: FAQ
     url: /faq/
+  - title: New Folder
+    collection: new-folder

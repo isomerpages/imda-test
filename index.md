@@ -4,7 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: This is a maintenance notification section
+notification: This is a maintenance section
 sections:
   - hero:
       title: Isomer 3

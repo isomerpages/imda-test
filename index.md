@@ -27,7 +27,7 @@ sections:
           url: ""
   - infobar:
       title: Infobar title
-      subtitle: Subtitle
+      subtitle: Subtitle Area
       description: About a sentence worth of description here
       button: Button text
       url: /faq/

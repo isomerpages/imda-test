@@ -1,5 +1,5 @@
 collections:
-  privacy-folder:
+  privacy-link:
     output: true
     order:
       - privacy.md

@@ -7,7 +7,7 @@ permalink: /
 notification: This is a maintenance section
 sections:
   - hero:
-      title: Isomer 3
+      title: Hero title
       subtitle: Everyone can build simiple website 4
       background: /images/hero-banner.png
       button: Contact Us

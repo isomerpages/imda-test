@@ -7,7 +7,7 @@ permalink: /
 notification: Update your maintenance downtime
 sections:
   - hero:
-      title: Test Hero Banner
+      title: Test Hero Banner 1
       subtitle: Update subtitle
       background: /images/sample.JPG
       button: Contact Us
